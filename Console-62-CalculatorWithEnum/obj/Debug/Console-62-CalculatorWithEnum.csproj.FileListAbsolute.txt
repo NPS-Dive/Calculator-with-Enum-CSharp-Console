@@ -1,0 +1,7 @@
+E:\Computer\DotNet\C#\C#\Console C#\C#ConsolePractice02\Console-62-CalculatorWithEnum\Console-62-CalculatorWithEnum\bin\Debug\Console_62_CalculatorWithEnum.exe
+E:\Computer\DotNet\C#\C#\Console C#\C#ConsolePractice02\Console-62-CalculatorWithEnum\Console-62-CalculatorWithEnum\bin\Debug\Console_62_CalculatorWithEnum.pdb
+E:\Computer\DotNet\C#\C#\Console C#\C#ConsolePractice02\Console-62-CalculatorWithEnum\Console-62-CalculatorWithEnum\obj\Debug\Console-62-CalculatorWithEnum.csproj.AssemblyReference.cache
+E:\Computer\DotNet\C#\C#\Console C#\C#ConsolePractice02\Console-62-CalculatorWithEnum\Console-62-CalculatorWithEnum\obj\Debug\Console-62-CalculatorWithEnum.csproj.SuggestedBindingRedirects.cache
+E:\Computer\DotNet\C#\C#\Console C#\C#ConsolePractice02\Console-62-CalculatorWithEnum\Console-62-CalculatorWithEnum\obj\Debug\Console-62-CalculatorWithEnum.csproj.CoreCompileInputs.cache
+E:\Computer\DotNet\C#\C#\Console C#\C#ConsolePractice02\Console-62-CalculatorWithEnum\Console-62-CalculatorWithEnum\obj\Debug\Console_62_CalculatorWithEnum.exe
+E:\Computer\DotNet\C#\C#\Console C#\C#ConsolePractice02\Console-62-CalculatorWithEnum\Console-62-CalculatorWithEnum\obj\Debug\Console_62_CalculatorWithEnum.pdb
